@@ -91,6 +91,10 @@ Governance decides whether the artifact will be:
 
 Governance owns the promotion decision.
 
+Labs may prepare and present promotion candidates, but it must not influence or predetermine governance decisions.
+
+All promotion decisions are made independently within the Portfolio Governance System.
+
 ## 5. Pillar Integration
 
 If promoted, the artifact is integrated into its target production pillar.
