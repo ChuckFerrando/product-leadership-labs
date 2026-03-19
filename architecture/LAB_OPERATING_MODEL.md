@@ -190,6 +190,10 @@ The Lab Operating Model must preserve the following rules:
 - experiments must not convert raw signals directly into decisions  
 - experiments must not become canonical by default  
 
+Experiments must not introduce incremental production changes that accumulate into de facto canonical behavior without formal promotion.
+
+All production impact must occur only after governance-approved promotion.
+
 ---
 
 # Cadence
