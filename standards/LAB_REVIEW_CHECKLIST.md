@@ -77,7 +77,8 @@ Every experiment must be evaluated as:
 
 - [ ] Target pillar is identified if promotion is possible  
 - [ ] Required validation gaps are documented  
-- [ ] Promotion is not assumed automatically  
+- [ ] Promotion is not assumed automatically
+- [ ] Promotion is not assumed or implied without formal governance decision
 
 ---
 
