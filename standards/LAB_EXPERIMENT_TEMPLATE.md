@@ -26,6 +26,7 @@ Clear, scenario-based title.
 **Format:**
 ```text
 [SCENARIO]_EXPERIMENT
+```
 
 ## 2. Problem or Opportunity
 
